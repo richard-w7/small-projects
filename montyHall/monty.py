@@ -24,4 +24,10 @@ def monty(num_games=1000):
     print(f'Win percentage from always switching: {win_count_s / num_games:.3%}')
     print(f'Win percentage from never switching: {win_count_n / num_games:.3%}')
 
-monty(10000)
+
+
+def main():
+    monty(int(input("Times to simulate: ")))
+
+if __name__ == "__main__":
+    main()
