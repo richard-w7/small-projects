@@ -17,3 +17,6 @@ A look into how MCMC methods work
 A study into how different methods optimise for y minima with different piecewise functions  
 Enter functions as: func1, n<=x<m   - Seperate functions with '|', function ranges cannot overlap  
   
+---
+### Ray Casting
+Learning how ray casting works with object collision. The yellow cone is the player's view, control the player with 'wasd' for movement, left and right arrows for turning.
