@@ -20,3 +20,7 @@ Enter functions as: func1, n<=x<m   - Seperate functions with '|', function rang
 ---
 ### Ray Casting
 Learning how ray casting works with object collision. The yellow cone is the player's view, control the player with 'wasd' for movement, left and right arrows for turning.
+  
+---
+### Gravity Simulation
+Simulating gravity around a planet, specifically spacecraft orbiting the planet. First click to initialise the starting position of the spacecraft, second click sets the velocity. Spacecrafts that are in stable orbit are tracked and turned green.
